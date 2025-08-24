@@ -1,0 +1,23 @@
+Steps to follow
+
+Demo Logins
+
+- **Admin**: admin@example.com / admin123
+- **Seller**: seller@example.com / seller123
+- **User**: user@example.com / user123
+
+## Installation
+
+1. Clone or download the project
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
+4. Start the WebSocket server (in a separate terminal): `npm run start:ws`
+5. Open [http://localhost:3000](http://localhost:3000) to view the app
+
+## Production Build
+
+1. Build for production: `npm run build`
+2. Start production server with SSR: `npm run start:ssr`
+
+## Project Structure
+ecommerce-app/
