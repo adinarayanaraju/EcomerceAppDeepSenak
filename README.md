@@ -284,3 +284,15 @@ javascript
 // Data stored: { notifications: array, unreadCount: number, panelOpen: boolean }
 // Functions: addNotification(), markAsRead(), markAllAsRead(), deleteNotification()
 // Consumers: Various components, NotificationBell, NotificationsPanel, NotificationsPage
+
+
+
+
+
+
+Demo Logins:
+Admin: admin@example.com / admin123
+
+Seller: seller@example.com / seller123
+
+User: user@example.com / user123
